@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Registration Form</title>
+
+<style>
+body{
+font-family: Arial;
+}
+
+.form-box{
+width:300px;
+margin:auto;
+border:1px solid black;
+padding:10px;
+}
+
+input,button{
+width:100%;
+padding:5px;
+margin-top:5px;
+}
+
+button{
+background-color:blue;
+color:white;
+border:none;
+}
+</style>
+</head>
+
+<body>
+
+<h2 align="center">User Registration</h2>
+
+<div class="form-box">
+
+<form>
+
+<label>Name:</label>
+<input type="text" required>
+
+<label>Email:</label>
+<input type="email" required>
+
+<label>Gender:</label><br>
+<input type="radio" name="gender"> Male
+<input type="radio" name="gender"> Female
+<br><br>
+
+<label>Date of Birth:</label>
+<input type="date" required>
+
+<button type="submit">Submit</button>
+
+</form>
+</div>
+
+</body>
+</html>
