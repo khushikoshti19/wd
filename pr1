@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<title>personal details </title>
+</head>
+<body>
+<h1>personal details</h1>
+<p>
+<strong>name:</strong><u>Anushka kulkarni</u>
+</p>
+<p>
+<strong>address:</strong><u>vikas coloney</u>
+</p>
+<p>
+<strong>occupation:</strong><u>student</u>
+</p>
+<strong>hobbies:</strong>
+<ul>
+<li>reading</li>
+<li>writting</li>
+<li>singing</li>
+</ul>
+<strong>phone no:</strong>
+<br>
+<abbr title="phone number">p:</abbr>9922196760
+<br>
+<abbr title='mail'>email:</abbr>
+<a href="mailto:anushka.kul@example.com">
+anushka.kul@example.com
+</a>
+</p>
+</body>
+</html>
