@@ -1,0 +1,38 @@
+[17/05/26, 7:53:53 PM] Anushka Clg: <!doctype html>
+<html>
+<head>
+<title>stud details</title>
+</head>
+<body>
+<h1>stud info</h1>
+<a href=https://www.google.com"target="_blank>go to google</a>
+<br><br>
+<img src="https://www.eurokidsindia.com/blog/wp-content/uploads/2024/10/Top10_Essential_Trait_GoodStudent.jpg-870x437.jpg"alt="stud image">
+<br><br>
+<table border="0" cellpadding="10">
+<tr>
+<th>roll no</th>
+<th>dob</th>
+</tr>
+<tr>
+<td>1</td>
+<td>08/11/06</td>
+<td>
+<table border='2' cellpadding='6'>
+<tr>
+<th>name</th>
+<th>class</th>
+<th>dob</th>
+</tr>
+<tr>
+<td>anushka</td>
+<td>se</td>
+<td>08/11/06</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+[17/05/26, 7:53:57 PM] Anushka Clg: pr2
